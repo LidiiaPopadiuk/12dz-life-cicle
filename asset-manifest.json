@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/12dz-life-cicle/static/css/main.cf530530.css",
+    "main.js": "/12dz-life-cicle/static/js/main.12a2583c.js",
+    "static/media/noContactsYet.jpg": "/12dz-life-cicle/static/media/noContactsYet.984719bde3449d0091cf.jpg",
+    "index.html": "/12dz-life-cicle/index.html",
+    "main.cf530530.css.map": "/12dz-life-cicle/static/css/main.cf530530.css.map",
+    "main.12a2583c.js.map": "/12dz-life-cicle/static/js/main.12a2583c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf530530.css",
+    "static/js/main.12a2583c.js"
+  ]
+}
