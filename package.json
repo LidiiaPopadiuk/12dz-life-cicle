@@ -2,7 +2,7 @@
   "name": "dz10-phonebook",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lidiiapopadiuk.github.io/dz10-phonebook/",
+  "homepage": "https://lidiiapopadiuk.github.io/12dz-life-cicle/",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
